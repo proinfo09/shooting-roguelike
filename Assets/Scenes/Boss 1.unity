@@ -9052,44 +9052,138 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854276abbfcbbbd4b95002ce0e4e4288, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  actions:
-  - actionLenght: 2
-    shouldMove: 1
-    shouldChasePlayer: 1
-    moveSpeed: 3.5
-    moveToPoint: 0
-    pointToMoveTo: {fileID: 0}
-    shouldShoot: 0
-    itemToShoot: {fileID: 0}
-    timeBetweenShots: 0
-    shotPoints: []
-  - actionLenght: 2
-    shouldMove: 0
-    shouldChasePlayer: 1
-    moveSpeed: 3.5
-    moveToPoint: 0
-    pointToMoveTo: {fileID: 0}
-    shouldShoot: 1
-    itemToShoot: {fileID: 1578935079470490477, guid: 7e08224af269a9644895d12d4910a5f0, type: 3}
-    timeBetweenShots: 0.5
-    shotPoints:
-    - {fileID: 244714946}
-    - {fileID: 1684300766}
-    - {fileID: 132989862}
-    - {fileID: 1645933628}
-    - {fileID: 1843090572}
-    - {fileID: 1215695467}
-    - {fileID: 892021150}
-    - {fileID: 1981787593}
-    - {fileID: 836109422}
-    - {fileID: 1150209723}
-    - {fileID: 1684585646}
-    - {fileID: 375225586}
+  actions: []
   theRB: {fileID: 1264052899}
   currentHealth: 200
   deathEffect: {fileID: 4909191768701543985, guid: fc1b8dfebed75c3469a7a6b7e35c6846, type: 3}
   hitEffect: {fileID: 1820751455834350226, guid: 4e60da512f559074899f6f48dfe0554e, type: 3}
   levelExit: {fileID: 439704948}
+  sequences:
+  - actions:
+    - actionLenght: 2
+      shouldMove: 1
+      shouldChasePlayer: 1
+      moveSpeed: 3.5
+      moveToPoint: 0
+      pointToMoveTo: {fileID: 0}
+      shouldShoot: 0
+      itemToShoot: {fileID: 0}
+      timeBetweenShots: 0
+      shotPoints: []
+    - actionLenght: 2
+      shouldMove: 0
+      shouldChasePlayer: 1
+      moveSpeed: 3.5
+      moveToPoint: 0
+      pointToMoveTo: {fileID: 0}
+      shouldShoot: 1
+      itemToShoot: {fileID: 1578935079470490477, guid: 7e08224af269a9644895d12d4910a5f0, type: 3}
+      timeBetweenShots: 0.5
+      shotPoints:
+      - {fileID: 244714946}
+      - {fileID: 1684300766}
+      - {fileID: 132989862}
+      - {fileID: 1645933628}
+      - {fileID: 1843090572}
+      - {fileID: 1215695467}
+      - {fileID: 892021150}
+      - {fileID: 1981787593}
+      - {fileID: 836109422}
+      - {fileID: 1150209723}
+      - {fileID: 1684585646}
+      - {fileID: 375225586}
+    endSequenceHealth: 100
+  - actions:
+    - actionLenght: 5
+      shouldMove: 1
+      shouldChasePlayer: 0
+      moveSpeed: 4
+      moveToPoint: 1
+      pointToMoveTo: {fileID: 1702349766}
+      shouldShoot: 1
+      itemToShoot: {fileID: 1578935079470490477, guid: 7e08224af269a9644895d12d4910a5f0, type: 3}
+      timeBetweenShots: 0.5
+      shotPoints:
+      - {fileID: 244714946}
+      - {fileID: 1684300766}
+      - {fileID: 132989862}
+      - {fileID: 1645933628}
+      - {fileID: 1843090572}
+      - {fileID: 1215695467}
+      - {fileID: 892021150}
+      - {fileID: 1981787593}
+      - {fileID: 836109422}
+      - {fileID: 1150209723}
+      - {fileID: 1684585646}
+      - {fileID: 375225586}
+    - actionLenght: 5
+      shouldMove: 1
+      shouldChasePlayer: 0
+      moveSpeed: 4
+      moveToPoint: 1
+      pointToMoveTo: {fileID: 945836107}
+      shouldShoot: 1
+      itemToShoot: {fileID: 1578935079470490477, guid: 7e08224af269a9644895d12d4910a5f0, type: 3}
+      timeBetweenShots: 0.5
+      shotPoints:
+      - {fileID: 244714946}
+      - {fileID: 1684300766}
+      - {fileID: 132989862}
+      - {fileID: 1645933628}
+      - {fileID: 1843090572}
+      - {fileID: 1215695467}
+      - {fileID: 892021150}
+      - {fileID: 1981787593}
+      - {fileID: 836109422}
+      - {fileID: 1150209723}
+      - {fileID: 1684585646}
+      - {fileID: 375225586}
+    - actionLenght: 5
+      shouldMove: 1
+      shouldChasePlayer: 0
+      moveSpeed: 4
+      moveToPoint: 1
+      pointToMoveTo: {fileID: 925139748}
+      shouldShoot: 1
+      itemToShoot: {fileID: 1578935079470490477, guid: 7e08224af269a9644895d12d4910a5f0, type: 3}
+      timeBetweenShots: 0.5
+      shotPoints:
+      - {fileID: 244714946}
+      - {fileID: 1684300766}
+      - {fileID: 132989862}
+      - {fileID: 1645933628}
+      - {fileID: 1843090572}
+      - {fileID: 1215695467}
+      - {fileID: 892021150}
+      - {fileID: 1981787593}
+      - {fileID: 836109422}
+      - {fileID: 1150209723}
+      - {fileID: 1684585646}
+      - {fileID: 375225586}
+    - actionLenght: 5
+      shouldMove: 1
+      shouldChasePlayer: 0
+      moveSpeed: 4
+      moveToPoint: 1
+      pointToMoveTo: {fileID: 2089438429}
+      shouldShoot: 1
+      itemToShoot: {fileID: 1578935079470490477, guid: 7e08224af269a9644895d12d4910a5f0, type: 3}
+      timeBetweenShots: 0.5
+      shotPoints:
+      - {fileID: 244714946}
+      - {fileID: 1684300766}
+      - {fileID: 132989862}
+      - {fileID: 1645933628}
+      - {fileID: 1843090572}
+      - {fileID: 1215695467}
+      - {fileID: 892021150}
+      - {fileID: 1981787593}
+      - {fileID: 836109422}
+      - {fileID: 1150209723}
+      - {fileID: 1684585646}
+      - {fileID: 375225586}
+    endSequenceHealth: 100
+  currentSequence: 0
 --- !u!1 &1297678119
 GameObject:
   m_ObjectHideFlags: 0
@@ -9920,6 +10014,14 @@ PrefabInstance:
     - target: {fileID: 4475723491657891186, guid: f1427959183639648a12d8a4ca47113a, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4971448646534726254, guid: f1427959183639648a12d8a4ca47113a, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -2.6866
+      objectReference: {fileID: 0}
+    - target: {fileID: 4971448646534726254, guid: f1427959183639648a12d8a4ca47113a, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 1.3433228
       objectReference: {fileID: 0}
     - target: {fileID: 7604218098009311924, guid: f1427959183639648a12d8a4ca47113a, type: 3}
       propertyPath: m_IsActive

@@ -19,6 +19,9 @@ public class BossController : MonoBehaviour
     public GameObject deathEffect, hitEffect;
     public GameObject levelExit;
 
+    public BossSequence[] sequences;
+    public int currentSequence;
+
     private void Awake()
     {
         instance = this;
@@ -26,6 +29,7 @@ public class BossController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        actions = sequences[currentSequence].actions;
         actionCounter = actions[currentAction].actionLenght;
         UIController.instance.bossHealthBar.maxValue = currentHealth;
         UIController.instance.bossHealthBar.value = currentHealth;
@@ -46,9 +50,10 @@ public class BossController : MonoBehaviour
                     moveDirection = PlayerController.instance.transform.position - transform.position;
                     moveDirection.Normalize();
                 }
-                if (actions[currentAction].moveToPoint)
+                if (actions[currentAction].moveToPoint && Vector3.Distance(transform.position, actions[currentAction].pointToMoveTo.position) > 0.5f)
                 {
                     moveDirection = actions[currentAction].pointToMoveTo.position - transform.position;
+                    moveDirection.Normalize();
                 }
             }
 
@@ -94,7 +99,18 @@ public class BossController : MonoBehaviour
             levelExit.SetActive(true);
             UIController.instance.bossHealthBar.gameObject.SetActive(false);
         }
+        else
+        {
+            if(currentHealth <= sequences[currentSequence].endSequenceHealth && currentSequence < sequences.Length - 1)
+            {
+                currentSequence++;
+                actions = sequences[currentSequence].actions;
+                currentAction = 0;
+                actionCounter = actions[currentAction].actionLenght;
+            }
+        }
         UIController.instance.bossHealthBar.value = currentHealth;
+        
     }
 }
 
@@ -114,4 +130,13 @@ public class BossAction
     public GameObject itemToShoot;
     public float timeBetweenShots;
     public Transform[] shotPoints;
+}
+
+[System.Serializable]
+public class BossSequence
+{
+    [Header("Sequence")]
+    public BossAction[] actions;
+
+    public int endSequenceHealth;
 }
