@@ -296,7 +296,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5087932008765489876, guid: 87b722c05b26cc44f85178f8cc8403d9, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5087932008765489877, guid: 87b722c05b26cc44f85178f8cc8403d9, type: 3}
       propertyPath: m_RootOrder
@@ -641,6 +641,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 902385312315724628, guid: 780d4d0e7956b794d8b99d25111b3478, type: 3}
+      propertyPath: patrolPoint.Array.data[0]
+      value: 
+      objectReference: {fileID: 1546978243}
+    - target: {fileID: 902385312315724628, guid: 780d4d0e7956b794d8b99d25111b3478, type: 3}
+      propertyPath: patrolPoint.Array.data[1]
+      value: 
+      objectReference: {fileID: 1521862906}
+    - target: {fileID: 902385312315724628, guid: 780d4d0e7956b794d8b99d25111b3478, type: 3}
+      propertyPath: patrolPoint.Array.data[2]
+      value: 
+      objectReference: {fileID: 1605271208}
     - target: {fileID: 902385312315724648, guid: 780d4d0e7956b794d8b99d25111b3478, type: 3}
       propertyPath: m_Name
       value: Enemy - Vampire
@@ -894,11 +906,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1707644442949700514, guid: 308e347980f50f9408f552962d17861e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.5
+      value: 2.281
       objectReference: {fileID: 0}
     - target: {fileID: 1707644442949700514, guid: 308e347980f50f9408f552962d17861e, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.2
+      value: 2.008
       objectReference: {fileID: 0}
     - target: {fileID: 1707644442949700514, guid: 308e347980f50f9408f552962d17861e, type: 3}
       propertyPath: m_LocalPosition.z
