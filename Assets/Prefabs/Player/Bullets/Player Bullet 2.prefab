@@ -101,7 +101,7 @@ MonoBehaviour:
   speed: 8.8
   theRB: {fileID: 8677966317726730274}
   impactEffect: {fileID: 2662019799248583325, guid: 77075c78d9484ee4ba68129bd0249ff9, type: 3}
-  damageToGive: 1
+  damageToGive: 100
   impactSound: 2
 --- !u!61 &8677966317726730273
 BoxCollider2D:

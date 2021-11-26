@@ -9,11 +9,8 @@ EditorBuildSettings:
     path: Assets/Scenes/Title Menu.unity
     guid: 57ecea8b934262f47a5857c56e8e403e
   - enabled: 1
-    path: Assets/Scenes/Test.unity
-    guid: 88366dcb302d28c4d906213e8d909211
-  - enabled: 1
-    path: Assets/Scenes/Victory.unity
-    guid: ea286119fca691d44972596322dfbcc6
+    path: Assets/Scenes/Character Select.unity
+    guid: 8f7ff25982dec3143a683124f528d36d
   - enabled: 1
     path: Assets/Scenes/Level 1.unity
     guid: 9a188d1107a5d87488fdfe171a0ee003
@@ -24,6 +21,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Level 3.unity
     guid: 51ef47fd1a4a83448a86569688c72fd7
   - enabled: 1
-    path: Assets/Scenes/Character Select.unity
-    guid: 8f7ff25982dec3143a683124f528d36d
+    path: Assets/Scenes/Boss 1.unity
+    guid: 4017d955197e39b41beb92e2054e8312
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: ea286119fca691d44972596322dfbcc6
   m_configObjects: {}
