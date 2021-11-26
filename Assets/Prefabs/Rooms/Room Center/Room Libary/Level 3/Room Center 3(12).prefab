@@ -230,12 +230,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   openWhenCleared: 1
-  enemies:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  enemies: []
   theRoom: {fileID: 0}
 --- !u!1 &8583447189919791801
 GameObject:
