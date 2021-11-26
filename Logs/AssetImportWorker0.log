@@ -340,3 +340,543 @@ Received Import Request.
   path: Assets/Scenes/Level 1.unity
   artifactKey: Guid(9a188d1107a5d87488fdfe171a0ee003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/Level 1.unity using Guid(9a188d1107a5d87488fdfe171a0ee003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '470bfdabab9d68155007eb866ca33fbf') in 0.013066 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 544.267692 seconds.
+  path: Assets/Tilesets/Dungeon1
+  artifactKey: Guid(00986d9d506364142983cea3062aaced) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon1 using Guid(00986d9d506364142983cea3062aaced) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f3980aa4e78dcdb6f4998c4e4cd18aa') in 0.012709 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.990269 seconds.
+  path: Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_114.asset
+  artifactKey: Guid(5537e9b1eed82a948af72c0ad2dc8807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_114.asset using Guid(5537e9b1eed82a948af72c0ad2dc8807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ce6b3ec0ea446ad4ae2264184b54f2e') in 0.022581 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_118.asset
+  artifactKey: Guid(5eb0832179b96a94c9ea9e381d8d24fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_118.asset using Guid(5eb0832179b96a94c9ea9e381d8d24fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dc12c98e03e9af985c7acb602994f7d') in 0.007213 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_119.asset
+  artifactKey: Guid(b0477c952dc9697419789bef37c50274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_119.asset using Guid(b0477c952dc9697419789bef37c50274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee3e5f26851b77ae27b9f40dd6c100f8') in 0.008175 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_120.asset
+  artifactKey: Guid(f6d5c58ededd25b4fa2a531bba1138c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_120.asset using Guid(f6d5c58ededd25b4fa2a531bba1138c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21d3352fe29c51ae7017aa3ae8ccf308') in 0.011092 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.228739 seconds.
+  path: Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_121.asset
+  artifactKey: Guid(2bbd73ae184e4c14099feb357b7ab60b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_121.asset using Guid(2bbd73ae184e4c14099feb357b7ab60b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80b52d71f27deb2d70e14979bc6fa0dc') in 0.015298 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_126.asset
+  artifactKey: Guid(f8ece2bd13c4e1a4aad595873415aaa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_126.asset using Guid(f8ece2bd13c4e1a4aad595873415aaa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '244de2b41ad808797ce2154aea7e6274') in 0.006744 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022154 seconds.
+  path: Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_131.asset
+  artifactKey: Guid(e7f185b7648733a44b90359886cb95a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_131.asset using Guid(e7f185b7648733a44b90359886cb95a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53bfafed0411aec204f2a3feb53b3351') in 0.009615 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_140.asset
+  artifactKey: Guid(525309f4ed7e32140965e36abbcaa214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_140.asset using Guid(525309f4ed7e32140965e36abbcaa214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6834d198711d35fee8b4ae90002dcc6') in 0.008203 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_132.asset
+  artifactKey: Guid(9bc0fd646d2e50d49bae13f8821a14a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_132.asset using Guid(9bc0fd646d2e50d49bae13f8821a14a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4544f5b7f8b66dc8559baf9c143d6876') in 0.009740 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_134.asset
+  artifactKey: Guid(52c2da40dbad67d488c517141ba1e1e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_134.asset using Guid(52c2da40dbad67d488c517141ba1e1e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8b448a9689b2c42912e8cc1365d7e91') in 0.010662 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_137.asset
+  artifactKey: Guid(30709887ebf95194ca076f09cee02fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_137.asset using Guid(30709887ebf95194ca076f09cee02fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54f2d6f1dbdbeac27e7362216ea0ac22') in 0.006519 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_133.asset
+  artifactKey: Guid(1f21a19719f3a26409fd977e4c3fe879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_133.asset using Guid(1f21a19719f3a26409fd977e4c3fe879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67a1f0f45e86fac8f7259210e5db30a8') in 0.008002 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_150.asset
+  artifactKey: Guid(9e7818ce233140f43a4259768a2b7a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_150.asset using Guid(9e7818ce233140f43a4259768a2b7a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36fbde65bc677d94b0f4841c904dcdd6') in 0.010247 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_146.asset
+  artifactKey: Guid(a24ace48ba71b3d4fa13cf53c21da76d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_146.asset using Guid(a24ace48ba71b3d4fa13cf53c21da76d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ecf6202773afc5857d08594a88c5bdc') in 0.008246 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_139.asset
+  artifactKey: Guid(b1cb2e8831546dc41a866fe3d53661fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_139.asset using Guid(b1cb2e8831546dc41a866fe3d53661fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e5c251ec53fc0e6dce5aba3a4b673c9') in 0.006671 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.173981 seconds.
+  path: Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_151.asset
+  artifactKey: Guid(bbae01e333b26ab4685af0ed00de7adb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_151.asset using Guid(bbae01e333b26ab4685af0ed00de7adb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cae69d9fe142618222ebb8d042bedc0e') in 0.007784 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_153.asset
+  artifactKey: Guid(7c505ac159ad2bc42b71b58b529e64f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_153.asset using Guid(7c505ac159ad2bc42b71b58b529e64f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a6de9ef5dd0e5271dd70356f9c43a5a') in 0.006266 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_152.asset
+  artifactKey: Guid(e16011447986bcc4bacc9057169de90f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_152.asset using Guid(e16011447986bcc4bacc9057169de90f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67a94cc960e49581bccfb7e06aac2e5f') in 0.008611 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.035229 seconds.
+  path: Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_168.asset
+  artifactKey: Guid(f3f982b8c2c7a854385dbdf44b8fa7af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_168.asset using Guid(f3f982b8c2c7a854385dbdf44b8fa7af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '201459f13f127053b56b519a38cf08e0') in 0.008477 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.823346 seconds.
+  path: Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_198.asset
+  artifactKey: Guid(8495cd8231ea58b4b9550923b09dc527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_198.asset using Guid(8495cd8231ea58b4b9550923b09dc527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cdb44f4cf6bbabbe4515932dbde01d6') in 0.009271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_199.asset
+  artifactKey: Guid(221f16af2b4a8da4aadb39789a8508c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_199.asset using Guid(221f16af2b4a8da4aadb39789a8508c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '396d8594655faba16dd6fde616968d78') in 0.007499 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_200.asset
+  artifactKey: Guid(c64f70770d0f51c43bdb57a5329a6ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_200.asset using Guid(c64f70770d0f51c43bdb57a5329a6ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28494d8cc5a7a61f5bc7e839051c982d') in 0.008630 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010555 seconds.
+  path: Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_201.asset
+  artifactKey: Guid(5b7f6599a09503844aafa68eff81115b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_201.asset using Guid(5b7f6599a09503844aafa68eff81115b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d2d817dc4b77f38a2be8adae083710b') in 0.008307 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.291519 seconds.
+  path: Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_214.asset
+  artifactKey: Guid(8ff955e8c3d04e043b34ddf738ada8ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_214.asset using Guid(8ff955e8c3d04e043b34ddf738ada8ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf404233af66d514f8e14c56f8e11fc3') in 0.008326 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_216.asset
+  artifactKey: Guid(19af4fdcc636a794e8a6b46a6a6d05b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_216.asset using Guid(19af4fdcc636a794e8a6b46a6a6d05b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82cacf2139cb4a3c6c0ecaadc1cc3092') in 0.007085 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_217.asset
+  artifactKey: Guid(e98946ac7c2d11749b363e524d410b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_217.asset using Guid(e98946ac7c2d11749b363e524d410b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf6e67b9efef379f66f024c27303dd09') in 0.009668 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.033458 seconds.
+  path: Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_231.asset
+  artifactKey: Guid(9ee55d169292bd7489999286fc823c71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_231.asset using Guid(9ee55d169292bd7489999286fc823c71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a256e329e91f8b7e1bb3244f20f6fd1') in 0.009687 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_232.asset
+  artifactKey: Guid(1447d2017e3df7a47aaf212da3651ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_232.asset using Guid(1447d2017e3df7a47aaf212da3651ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c028af5527a6e513543ae08b44916374') in 0.007982 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_233.asset
+  artifactKey: Guid(b5dc1a6ca5722d24b8fa66897a1ccdce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Dungeon2/Dungeon_Tileset_at_233.asset using Guid(b5dc1a6ca5722d24b8fa66897a1ccdce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ae0c3b6596c72bb04d1c966c20d6e88') in 0.008348 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 231.549776 seconds.
+  path: Assets/Sprites/0x72_16x16DungeonTileset_walls.v2.png
+  artifactKey: Guid(c44eeb68c96923145acd0874e8a789c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/0x72_16x16DungeonTileset_walls.v2.png using Guid(c44eeb68c96923145acd0874e8a789c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41b811c1d74bdaa5324208f6bd3be09d') in 0.032640 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 30.515834 seconds.
+  path: Assets/Sprites/0x72_16x16DungeonTileset_walls.v2.png
+  artifactKey: Guid(c44eeb68c96923145acd0874e8a789c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/0x72_16x16DungeonTileset_walls.v2.png using Guid(c44eeb68c96923145acd0874e8a789c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33762d62975065d78d15b08259a7b07a') in 0.016378 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.345183 seconds.
+  path: Assets/Sprites/0x72_16x16DungeonTileset_walls.v2.png
+  artifactKey: Guid(c44eeb68c96923145acd0874e8a789c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/0x72_16x16DungeonTileset_walls.v2.png using Guid(c44eeb68c96923145acd0874e8a789c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25ed7daf1f4dfdd9015f4ac2f509989e') in 0.006352 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.488591 seconds.
+  path: Assets/Sprites/0x72_16x16DungeonTileset_walls.v2.png
+  artifactKey: Guid(c44eeb68c96923145acd0874e8a789c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/0x72_16x16DungeonTileset_walls.v2.png using Guid(c44eeb68c96923145acd0874e8a789c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '894ad41457a839627c6343538a925cc4') in 0.093014 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.559322 seconds.
+  path: Assets/Sprites/0x72_16x16DungeonTileset_walls.v2.png
+  artifactKey: Guid(c44eeb68c96923145acd0874e8a789c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/0x72_16x16DungeonTileset_walls.v2.png using Guid(c44eeb68c96923145acd0874e8a789c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a86a952def13c21fc0bca1084cc797b9') in 0.083160 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.064523 seconds.
+  path: Assets/Sprites/0x72_16x16DungeonTileset_walls.v2.png
+  artifactKey: Guid(c44eeb68c96923145acd0874e8a789c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/0x72_16x16DungeonTileset_walls.v2.png using Guid(c44eeb68c96923145acd0874e8a789c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd3011a75e2a17f3d6648dc7675603df') in 0.085443 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.767649 seconds.
+  path: Assets/Sprites/0x72_16x16DungeonTileset_walls.v2.png
+  artifactKey: Guid(c44eeb68c96923145acd0874e8a789c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/0x72_16x16DungeonTileset_walls.v2.png using Guid(c44eeb68c96923145acd0874e8a789c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8639e6bd4d4270ea94940074e9bc747') in 0.082589 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 704.794024 seconds.
+  path: Assets/Sprites/0x72_16x16DungeonTileset_walls.v2 1.png
+  artifactKey: Guid(0122745d3f9cc2c4d9122f08b89ed400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/0x72_16x16DungeonTileset_walls.v2 1.png using Guid(0122745d3f9cc2c4d9122f08b89ed400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1b0469066b2b48b8eb759133ac5c947') in 0.015189 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 112.186969 seconds.
+  path: Assets/Sprites/0x72_16x16DungeonTileset_walls.v2.png
+  artifactKey: Guid(c44eeb68c96923145acd0874e8a789c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/0x72_16x16DungeonTileset_walls.v2.png using Guid(c44eeb68c96923145acd0874e8a789c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f238c3689bdcd8569fe5e72af4ebdc64') in 0.087308 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 72.212849 seconds.
+  path: Assets/Sprites/0x72_16x16DungeonTileset_walls.v2.png
+  artifactKey: Guid(c44eeb68c96923145acd0874e8a789c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/0x72_16x16DungeonTileset_walls.v2.png using Guid(c44eeb68c96923145acd0874e8a789c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f87a949511be403fd34b4e9919390e6') in 0.076690 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.522054 seconds.
+  path: Assets/Sprites/0x72_16x16DungeonTileset_walls.v2.png
+  artifactKey: Guid(c44eeb68c96923145acd0874e8a789c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/0x72_16x16DungeonTileset_walls.v2.png using Guid(c44eeb68c96923145acd0874e8a789c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83c16a154287f85c4b923b6a03d4c294') in 0.086279 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 369.806732 seconds.
+  path: Assets/Sprites/DVwZGR.png
+  artifactKey: Guid(1133f4504ecf39c478e01d40346c0c48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/DVwZGR.png using Guid(1133f4504ecf39c478e01d40346c0c48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c62a359c08f1f3b55d7621ae32f59a55') in 0.030444 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 29.048341 seconds.
+  path: Assets/Sprites/DVwZGR.png
+  artifactKey: Guid(1133f4504ecf39c478e01d40346c0c48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/DVwZGR.png using Guid(1133f4504ecf39c478e01d40346c0c48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f016fdf008a4de96e16128cb3603a83') in 0.030924 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.086841 seconds.
+  path: Assets/Sprites/DVwZGR.png
+  artifactKey: Guid(1133f4504ecf39c478e01d40346c0c48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/DVwZGR.png using Guid(1133f4504ecf39c478e01d40346c0c48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3630731dd49eb1d704df259f2daa3369') in 0.027476 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 61.810411 seconds.
+  path: Assets/Sprites/DVwZGR.png
+  artifactKey: Guid(1133f4504ecf39c478e01d40346c0c48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/DVwZGR.png using Guid(1133f4504ecf39c478e01d40346c0c48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e984c3080812775d205717af6843ea7') in 1.210651 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 124.054952 seconds.
+  path: Assets/Sprites/DVwZGR.png
+  artifactKey: Guid(1133f4504ecf39c478e01d40346c0c48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/DVwZGR.png using Guid(1133f4504ecf39c478e01d40346c0c48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fcfdb4e63ffdf9c24c71ba55ca3340e') in 1.288453 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1635.514448 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1
+  artifactKey: Guid(64179dce9a9888c419708867854ed9f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1 using Guid(64179dce9a9888c419708867854ed9f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f8b2fd2fcd4ee52cf5767e57a71124f') in 0.001839 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 343.234209 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 3.prefab
+  artifactKey: Guid(cdf0a6080bfada44d90d91e8642b9039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 3.prefab using Guid(cdf0a6080bfada44d90d91e8642b9039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98ce29e1c1d87a24fa1f830d8a19124f') in 0.051058 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 70.077657 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 4.prefab
+  artifactKey: Guid(c06f7cfe6b551be4682753457af636b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 4.prefab using Guid(c06f7cfe6b551be4682753457af636b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53e711227f80a5c4de99ec75a96f1327') in 0.032979 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 70.463825 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 5.prefab
+  artifactKey: Guid(33bb699bc4f7ccf458cbf2242bf7d839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 5.prefab using Guid(33bb699bc4f7ccf458cbf2242bf7d839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a344c0d507f38a05491f8365fafb536') in 0.028037 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 71.960338 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 6.prefab
+  artifactKey: Guid(5002b4e1bef98034d8f764756a9214ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 6.prefab using Guid(5002b4e1bef98034d8f764756a9214ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1bc261efe0d36745cd9d95727b5df9d') in 0.015343 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.378973 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(2).prefab
+  artifactKey: Guid(1fcc87a2cb26acc4c8b467d00676dad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(2).prefab using Guid(1fcc87a2cb26acc4c8b467d00676dad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dd7ae74c0de562b2c9aa8cec190dfe4') in 0.022972 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.509044 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(1).prefab
+  artifactKey: Guid(6ed330869f8875142a987ed5e330412c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(1).prefab using Guid(6ed330869f8875142a987ed5e330412c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd27dbf2e1aa6e6c9788a79490bc4f00f') in 0.043808 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.146073 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(3).prefab
+  artifactKey: Guid(cdf0a6080bfada44d90d91e8642b9039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(3).prefab using Guid(cdf0a6080bfada44d90d91e8642b9039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56af339c3676e7fa99e39bc82c7819cb') in 0.021739 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.610751 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(4).prefab
+  artifactKey: Guid(c06f7cfe6b551be4682753457af636b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(4).prefab using Guid(c06f7cfe6b551be4682753457af636b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf8ab3bcb2162e58bda69bec159b1a02') in 0.024144 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.769591 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(5).prefab
+  artifactKey: Guid(33bb699bc4f7ccf458cbf2242bf7d839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(5).prefab using Guid(33bb699bc4f7ccf458cbf2242bf7d839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f5b0a8eab8790713e0f529ff04c5257') in 0.011889 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.546940 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(6).prefab
+  artifactKey: Guid(5002b4e1bef98034d8f764756a9214ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(6).prefab using Guid(5002b4e1bef98034d8f764756a9214ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a7c7a8e866db5b5a76b62b1c3795e12') in 0.017851 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.352359 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(9).prefab
+  artifactKey: Guid(96577879555fd2c45a1219d470eb37f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(9).prefab using Guid(96577879555fd2c45a1219d470eb37f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ed097fad9e1d7493de03604bdaae605') in 0.028419 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 245.491127 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(10).prefab
+  artifactKey: Guid(dffeb4fc6c2609a48919906b16a776ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(10).prefab using Guid(dffeb4fc6c2609a48919906b16a776ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17e9f8c8416944620a2bc83fdc583825') in 0.026365 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 59.324562 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(10) 1.prefab
+  artifactKey: Guid(ff0262c4da019cd4b9f5faa4ee807fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(10) 1.prefab using Guid(ff0262c4da019cd4b9f5faa4ee807fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c7f039daa7f8d3d630f44d3642725ba') in 0.014354 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.264312 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(11).prefab
+  artifactKey: Guid(ff0262c4da019cd4b9f5faa4ee807fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(11).prefab using Guid(ff0262c4da019cd4b9f5faa4ee807fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b2470e3e5f36ba2c8e2d61ad6f089f0') in 0.028734 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 50.773392 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(12).prefab
+  artifactKey: Guid(87049e6cb7c2e504588e8d91b7199d6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(12).prefab using Guid(87049e6cb7c2e504588e8d91b7199d6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e788c21b72ab2b5fa673780c36b16ed0') in 0.012224 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 62.745763 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(13).prefab
+  artifactKey: Guid(ce0cba69ba6179647a56874a6012d377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(13).prefab using Guid(ce0cba69ba6179647a56874a6012d377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a5e77460c78d81ad4d4d15541cee4d1') in 0.013258 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 72.191650 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(14).prefab
+  artifactKey: Guid(e25d659432839e24cafe7eb983133067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(14).prefab using Guid(e25d659432839e24cafe7eb983133067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a60a39fcdeccc5ff6e45f3c7cf180e03') in 0.015407 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 40.427464 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(15).prefab
+  artifactKey: Guid(4f49adb2f05638a4a8a3a2b8b321ecdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(15).prefab using Guid(4f49adb2f05638a4a8a3a2b8b321ecdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd8c8c65ebdf4c25fb844b5fdc2a6854') in 0.012336 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 81.540026 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(16).prefab
+  artifactKey: Guid(0a26a6e82a8299c4fb1fe3214ca542fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(16).prefab using Guid(0a26a6e82a8299c4fb1fe3214ca542fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c023d7b4b2bc41212caea2d58acea0d') in 0.013609 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 40.712015 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(17).prefab
+  artifactKey: Guid(8cb620be48629a14da52a69371a70207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(17).prefab using Guid(8cb620be48629a14da52a69371a70207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5c1664a6bf3ddd44abaac4b79da64c8') in 0.015745 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 44.484214 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(18).prefab
+  artifactKey: Guid(c42b4112af37c9742a53484fbe4d6f39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(18).prefab using Guid(c42b4112af37c9742a53484fbe4d6f39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75f567eb00a61e7091938dea0c828f73') in 0.012908 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 61.433118 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(19).prefab
+  artifactKey: Guid(c874f0da2805ee044b8563f14f1303cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(19).prefab using Guid(c874f0da2805ee044b8563f14f1303cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbb8b23a240b262c534b7ba354ef9750') in 0.014123 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 78.889794 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(20).prefab
+  artifactKey: Guid(71395811dba87e94184418711e413982) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 1/Room Center 1(20).prefab using Guid(71395811dba87e94184418711e413982) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0909231f2df1403134c4487a6d896fff') in 0.014732 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.922609 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2
+  artifactKey: Guid(b1669cd1e62381d4dbb3c642237fac15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2 using Guid(b1669cd1e62381d4dbb3c642237fac15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8324238a0532fd86656d8d2fbeebf06e') in 0.001801 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 85.314836 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2 (1).prefab
+  artifactKey: Guid(d7063dc1fbde42c4b852fe1b13c0106c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2 (1).prefab using Guid(d7063dc1fbde42c4b852fe1b13c0106c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37a18ed32fa7a4c4363deca34492149f') in 0.030704 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.205164 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(2).prefab
+  artifactKey: Guid(c15f302f5cee8c849bfb4007d16e5b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(2).prefab using Guid(c15f302f5cee8c849bfb4007d16e5b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a85f3e6cdc6f5a3b67fa12038aef1d5b') in 0.024208 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.496914 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(3).prefab
+  artifactKey: Guid(bbecded6226578244b69304ad002c46e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(3).prefab using Guid(bbecded6226578244b69304ad002c46e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40a9d5c0697745dcbf5ad41b95a35e94') in 0.028037 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.133721 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(4).prefab
+  artifactKey: Guid(e7e87f4e499b5ae4f820119ca56419ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(4).prefab using Guid(e7e87f4e499b5ae4f820119ca56419ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45056aaa23d1075d7e65b1a83a551cfc') in 0.020969 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.394578 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(5).prefab
+  artifactKey: Guid(e00e32679c0b36a43a9a0d93b9c0959f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(5).prefab using Guid(e00e32679c0b36a43a9a0d93b9c0959f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fca94b1399de45c7947ce7841db7eda7') in 0.021919 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 103.599378 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(6).prefab
+  artifactKey: Guid(76f193e752663ae4eadca8c0e5adf63c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(6).prefab using Guid(76f193e752663ae4eadca8c0e5adf63c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '354b6541c0d402328d5d20c95072bebc') in 0.019463 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 70.076779 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(7).prefab
+  artifactKey: Guid(cdae3a325d63fcf4281b6e585c55c6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(7).prefab using Guid(cdae3a325d63fcf4281b6e585c55c6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acdabf4114c84029655d98ef233a7b27') in 0.036879 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 79.803865 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(9).prefab
+  artifactKey: Guid(5b88dd23e46d0d947baff78afaa6d416) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(9).prefab using Guid(5b88dd23e46d0d947baff78afaa6d416) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98bd98344c85f1b7a7d5aa0c284cbaea') in 0.016222 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 91.881015 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(10).prefab
+  artifactKey: Guid(e251a2584e3c2ea408a9bb323b1f2a96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(10).prefab using Guid(e251a2584e3c2ea408a9bb323b1f2a96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '049c451b781c8cb00cc0746059fee8a3') in 0.018634 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 83.814759 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(11).prefab
+  artifactKey: Guid(39a953b1f189b9546a9868994fe0e09a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(11).prefab using Guid(39a953b1f189b9546a9868994fe0e09a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44d7ec404341c06e27ead1545434e454') in 0.012488 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 319.540940 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(12).prefab
+  artifactKey: Guid(e6b0b42e880632b4a8426a71892f0b4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(12).prefab using Guid(e6b0b42e880632b4a8426a71892f0b4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f99b4e1be417190f947316c3148ba31') in 0.013677 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 186.441938 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(13).prefab
+  artifactKey: Guid(6e1cde0fcd6422841a7ab473b6b2c068) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(13).prefab using Guid(6e1cde0fcd6422841a7ab473b6b2c068) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04a53256b9e833ea24fe18add4bfa552') in 0.014364 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 47.275514 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(14).prefab
+  artifactKey: Guid(485993d954d51834caa2933328a6bfc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(14).prefab using Guid(485993d954d51834caa2933328a6bfc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd31f38da5a5dc3fb780641a8c81ed5ee') in 0.014808 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 84.159758 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(15).prefab
+  artifactKey: Guid(519b27ab29e281f448b7042d0faa2d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(15).prefab using Guid(519b27ab29e281f448b7042d0faa2d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f200eec6ecda57f04272444d6fc4b930') in 0.012984 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 152.347821 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(16).prefab
+  artifactKey: Guid(31156f801e3c7b5429a1cac55058e5f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(16).prefab using Guid(31156f801e3c7b5429a1cac55058e5f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0d7b79146a53bafd57fc3a897cc1dac') in 0.035964 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 49.453784 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(18).prefab
+  artifactKey: Guid(7ff909b5517bc2c4dad2353c3c245839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(18).prefab using Guid(7ff909b5517bc2c4dad2353c3c245839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6790ec0569b2d2f3b370e4d6b4cba89') in 0.038703 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 81.190031 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(19).prefab
+  artifactKey: Guid(a054ec5f8d79bfa499309b7a1fcc3c76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(19).prefab using Guid(a054ec5f8d79bfa499309b7a1fcc3c76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7caebdddb3c27df6af26f237ba257f8') in 0.031168 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 60.037556 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(20).prefab
+  artifactKey: Guid(7ef14796259f0a340822a8bd05adfc97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 2/Room Center 2(20).prefab using Guid(7ef14796259f0a340822a8bd05adfc97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '347c2bd3de6776e16adc6e8b35c9ca5e') in 0.029897 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.647808 seconds.
+  path: Assets/Prefabs/Rooms/Room Center/Room Libary/Level 3
+  artifactKey: Guid(a96b98903a7b4134bb0fd00cb1077d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Room Center/Room Libary/Level 3 using Guid(a96b98903a7b4134bb0fd00cb1077d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cc2a958a2028ca1363812c5e3c2e640') in 0.001417 seconds 
