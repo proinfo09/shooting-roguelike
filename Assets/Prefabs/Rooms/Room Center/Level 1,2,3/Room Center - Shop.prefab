@@ -514,9 +514,15 @@ MonoBehaviour:
   itemCost: 18
   healthUpgradeAmount: 2
   potentialGuns:
+  - {fileID: 2899807910096419481, guid: 225404852986be845abd7b20a227c576, type: 3}
+  - {fileID: 2942159320503082427, guid: 7dd597fbba838e2498d173b52f3bd8b4, type: 3}
+  - {fileID: 1741093432227337937, guid: 881e696cf1c0d034c809f5dbd36e48f5, type: 3}
   - {fileID: 5304900039581995946, guid: 140e9b4f836e165418b8193af23eb687, type: 3}
   - {fileID: 5561508898940284778, guid: 2b8c3979bd349504f92c1aac7322c7fb, type: 3}
   - {fileID: 3903632965375537917, guid: a67116fb390c5ff40af9e1e469fbd838, type: 3}
+  - {fileID: 2489085360227330396, guid: 4e66326fc9f6c2148903d52d1d9d07bd, type: 3}
+  - {fileID: 4184096573783033372, guid: 87db8277eca0cab44a04cb846a396cc6, type: 3}
+  - {fileID: 593771129501491742, guid: eb0e087a8c8c67d459b5c64009b42897, type: 3}
   gunSprite: {fileID: 2070480628}
   infoText: {fileID: 1864751143}
 --- !u!1 &1247398096658243622

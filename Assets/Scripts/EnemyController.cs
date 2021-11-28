@@ -50,7 +50,7 @@ public class EnemyController : MonoBehaviour
 
     public int deathSound = 1;
 
-    public GameObject[] deathSplatters;
+    public List<GameObject> deathSplatters = new List<GameObject>();
     public GameObject hitEffect;
 
     // Start is called before the first frame update
@@ -177,16 +177,10 @@ public class EnemyController : MonoBehaviour
                 }
             }
 
+            int selectedSplatter = Random.Range(0, deathSplatters.Count);
+
             int rotation = Random.Range(0, 4);
-            int selectedSplatter = Random.Range(0, deathSplatters.Length);
-            if (deathSplatters[0])
-            {
-                Instantiate(deathSplatters[selectedSplatter], transform.position, transform.rotation);
-            }
-            else
-            {
-                Instantiate(deathSplatters[selectedSplatter], transform.position, Quaternion.Euler(0f, 0f, rotation * 90f));
-            }
+            Instantiate(deathSplatters[selectedSplatter], transform.position, Quaternion.Euler(0f, 0f, rotation * 90f));
         }
     }
 }

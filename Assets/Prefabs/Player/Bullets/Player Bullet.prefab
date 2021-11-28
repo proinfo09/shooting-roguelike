@@ -103,6 +103,9 @@ MonoBehaviour:
   impactEffect: {fileID: 2662019799248583325, guid: 77075c78d9484ee4ba68129bd0249ff9, type: 3}
   damageToGive: 50
   impactSound: 2
+  isBouncing: 1
+  bouncingTime: 0
+  bouncingSpeed: 8
 --- !u!61 &7092964335713359444
 BoxCollider2D:
   m_ObjectHideFlags: 0

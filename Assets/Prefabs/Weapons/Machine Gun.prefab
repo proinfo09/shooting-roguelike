@@ -104,6 +104,11 @@ MonoBehaviour:
   gunUI: {fileID: 867977403578888201, guid: b7c9cdbabbf79df4cbe25e41c302bb48, type: 3}
   itemCost: 30
   gunShopSprite: {fileID: 867977403578888201, guid: b7c9cdbabbf79df4cbe25e41c302bb48, type: 3}
+  defDistanceRay: 100
+  isLaser: 0
+  m_lineRenderer: {fileID: 0}
+  isShotgun: 0
+  numberOfBullets: 0
 --- !u!1 &8240657545050205152
 GameObject:
   m_ObjectHideFlags: 0
@@ -128,7 +133,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8240657545050205152}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.089, y: 0.189, z: 0}
+  m_LocalPosition: {x: 0.958, y: 0.189, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 9030025255392928659}

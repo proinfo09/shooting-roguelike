@@ -214,7 +214,7 @@ MonoBehaviour:
   shouldRunAway: 0
   runawayRange: 7
   shouldWander: 1
-  wanderLength: 4
+  wanderLength: 3
   pauseLength: 2.5
   shouldPatrol: 0
   patrolPoint: []
