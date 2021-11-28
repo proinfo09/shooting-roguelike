@@ -61,6 +61,7 @@ public class Room : MonoBehaviour
         {
             door.SetActive(false);
             closeWhenEntered = false;
+            UIController.instance.mapDisplay.SetActive(true);
         }
     }
 
@@ -75,6 +76,7 @@ public class Room : MonoBehaviour
                 {
                     door.SetActive(true);
                 }
+                UIController.instance.mapDisplay.SetActive(false);
             }
 
             roomActive = true;
