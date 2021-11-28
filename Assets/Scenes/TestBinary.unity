@@ -627,6 +627,70 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3370715639676067986, guid: 10dd803ebeb2733418565d838b78fbc3, type: 3}
+      propertyPath: rooms.Array.size
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 3370715639676067986, guid: 10dd803ebeb2733418565d838b78fbc3, type: 3}
+      propertyPath: rooms.Array.data[1]
+      value: 
+      objectReference: {fileID: 8340148354481124598, guid: 55abd3caee9c56e40a7442eedab718e6, type: 3}
+    - target: {fileID: 3370715639676067986, guid: 10dd803ebeb2733418565d838b78fbc3, type: 3}
+      propertyPath: rooms.Array.data[2]
+      value: 
+      objectReference: {fileID: 8151129034944236004, guid: 7604630ab6a2b7c4b89d7dbf3d917f51, type: 3}
+    - target: {fileID: 3370715639676067986, guid: 10dd803ebeb2733418565d838b78fbc3, type: 3}
+      propertyPath: rooms.Array.data[3]
+      value: 
+      objectReference: {fileID: 5614278076695894408, guid: d2cb7b2eb2d3a024e8a314f7ff8a5514, type: 3}
+    - target: {fileID: 3370715639676067986, guid: 10dd803ebeb2733418565d838b78fbc3, type: 3}
+      propertyPath: rooms.Array.data[4]
+      value: 
+      objectReference: {fileID: 7270463445820969592, guid: bab4c026e467f584ab8d33f3a8de40af, type: 3}
+    - target: {fileID: 3370715639676067986, guid: 10dd803ebeb2733418565d838b78fbc3, type: 3}
+      propertyPath: rooms.Array.data[5]
+      value: 
+      objectReference: {fileID: 4914242580154349779, guid: b9f2f01ac0cd25948838c59b73a53df9, type: 3}
+    - target: {fileID: 3370715639676067986, guid: 10dd803ebeb2733418565d838b78fbc3, type: 3}
+      propertyPath: rooms.Array.data[6]
+      value: 
+      objectReference: {fileID: 4953517986363663317, guid: f216365d582a7af4ab71954504dc1359, type: 3}
+    - target: {fileID: 3370715639676067986, guid: 10dd803ebeb2733418565d838b78fbc3, type: 3}
+      propertyPath: rooms.Array.data[7]
+      value: 
+      objectReference: {fileID: 7076650233729131327, guid: 4437eb85e54398943bf27f535433a35b, type: 3}
+    - target: {fileID: 3370715639676067986, guid: 10dd803ebeb2733418565d838b78fbc3, type: 3}
+      propertyPath: rooms.Array.data[8]
+      value: 
+      objectReference: {fileID: 5380711644762965828, guid: 8efeae538cc92c04aa2dfa658c159d65, type: 3}
+    - target: {fileID: 3370715639676067986, guid: 10dd803ebeb2733418565d838b78fbc3, type: 3}
+      propertyPath: rooms.Array.data[9]
+      value: 
+      objectReference: {fileID: 1138055343506613554, guid: 72344cc522ea66a4dafb40e5e93595d8, type: 3}
+    - target: {fileID: 3370715639676067986, guid: 10dd803ebeb2733418565d838b78fbc3, type: 3}
+      propertyPath: rooms.Array.data[10]
+      value: 
+      objectReference: {fileID: 6527591782040609352, guid: ffbe05b7cd9a23b47a1d9ca73d5e54c0, type: 3}
+    - target: {fileID: 3370715639676067986, guid: 10dd803ebeb2733418565d838b78fbc3, type: 3}
+      propertyPath: rooms.Array.data[11]
+      value: 
+      objectReference: {fileID: 2791423887060767567, guid: dfffbf1e1c64e0b40be6242f002c798e, type: 3}
+    - target: {fileID: 3370715639676067986, guid: 10dd803ebeb2733418565d838b78fbc3, type: 3}
+      propertyPath: rooms.Array.data[12]
+      value: 
+      objectReference: {fileID: 7834486085490489986, guid: 5696c677cf542be42928461382d9a95e, type: 3}
+    - target: {fileID: 3370715639676067986, guid: 10dd803ebeb2733418565d838b78fbc3, type: 3}
+      propertyPath: rooms.Array.data[13]
+      value: 
+      objectReference: {fileID: 6807207694865206329, guid: 6647cd31f2628374b8b8e60d1d3f2418, type: 3}
+    - target: {fileID: 3370715639676067986, guid: 10dd803ebeb2733418565d838b78fbc3, type: 3}
+      propertyPath: rooms.Array.data[14]
+      value: 
+      objectReference: {fileID: 5848506486231083897, guid: 1dd32cce89e4d3f41b4c91b2ad206ae6, type: 3}
+    - target: {fileID: 3370715639676067986, guid: 10dd803ebeb2733418565d838b78fbc3, type: 3}
+      propertyPath: rooms.Array.data[15]
+      value: 
+      objectReference: {fileID: 7420976558775228751, guid: 411411b03027a304ca3798517f8ab2b1, type: 3}
+    - target: {fileID: 3370715639676067986, guid: 10dd803ebeb2733418565d838b78fbc3, type: 3}
       propertyPath: potentialCenters.Array.size
       value: 19
       objectReference: {fileID: 0}

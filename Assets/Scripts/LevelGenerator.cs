@@ -29,7 +29,7 @@ public class LevelGenerator : MonoBehaviour
 
     List<GameObject> layoutRoomObjects = new List<GameObject>();
 
-    public RoomPrefabs rooms;
+    public GameObject[] rooms;
 
     List<GameObject> generatedOutlines = new List<GameObject>();
 
@@ -169,105 +169,18 @@ public class LevelGenerator : MonoBehaviour
         bool roomRight = Physics2D.OverlapCircle(roomPosition + new Vector3(xOffset, 0f, 0f), .2f, isRoom);
         bool roomBelow = Physics2D.OverlapCircle(roomPosition + new Vector3(0f, -yOffset, 0f), .2f, isRoom);
 
-        int directionCount = 0;
-        if (roomAbove)
-        {
-            directionCount++;
-        }
-        if (roomLeft)
-        {
-            directionCount++;
-        }
-        if (roomRight)
-        {
-            directionCount++;
-        }
-        if (roomBelow)
-        {
-            directionCount++;
-        }
-        switch (directionCount)
-        {
-            case 0:
-                Debug.LogError("Found No Room Exists!!");
-                break;
-            case 1:
-                if (roomAbove)
-                {
-                    generatedOutlines.Add(Instantiate(rooms.singleUp, roomPosition, transform.rotation));
-                }
-                if (roomLeft)
-                {
-                    generatedOutlines.Add(Instantiate(rooms.singleLeft, roomPosition, transform.rotation));
-                }
-                if (roomRight)
-                {
-                    generatedOutlines.Add(Instantiate(rooms.singleRight, roomPosition, transform.rotation));
-                }
-                if (roomBelow)
-                {
-                    generatedOutlines.Add(Instantiate(rooms.singleDown, roomPosition, transform.rotation));
-                }
-                break;
-            case 2:
-                if(roomAbove && roomBelow)
-                {
-                    generatedOutlines.Add(Instantiate(rooms.doubleUpDown, roomPosition, transform.rotation));
-                }
-                if (roomLeft && roomRight)
-                {
-                    generatedOutlines.Add(Instantiate(rooms.doubleLeftRight, roomPosition, transform.rotation));
-                }
-                if (roomAbove && roomLeft)
-                {
-                    generatedOutlines.Add(Instantiate(rooms.doubleUpLeft, roomPosition, transform.rotation));
-                }
-                if (roomAbove && roomRight)
-                {
-                    generatedOutlines.Add(Instantiate(rooms.doubleUpRight, roomPosition, transform.rotation));
-                }
-                if (roomLeft && roomBelow)
-                {
-                    generatedOutlines.Add(Instantiate(rooms.doubleLeftDown, roomPosition, transform.rotation));
-                }
-                if (roomRight && roomBelow)
-                {
-                    generatedOutlines.Add(Instantiate(rooms.doubleRightDown, roomPosition, transform.rotation));
-                }
-                break;
-            case 3:
-                if(roomAbove && roomLeft && roomRight)
-                {
-                    generatedOutlines.Add(Instantiate(rooms.tripleUpLeftRight, roomPosition, transform.rotation));
-                }
-                if (roomAbove && roomLeft && roomBelow)
-                {
-                    generatedOutlines.Add(Instantiate(rooms.tripleUpLeftDown, roomPosition, transform.rotation));
-                }
-                if (roomAbove && roomRight && roomBelow)
-                {
-                    generatedOutlines.Add(Instantiate(rooms.tripleUpRightDown, roomPosition, transform.rotation));
-                }
-                if (roomLeft && roomRight && roomBelow)
-                {
-                    generatedOutlines.Add(Instantiate(rooms.tripleLeftRightDown, roomPosition, transform.rotation));
-                }
-                break;
-            case 4:
-                generatedOutlines.Add(Instantiate(rooms.fourWay, roomPosition, transform.rotation));
-                break;
-        }
+
+        var bitValue = 0;
+        bitValue += roomAbove ? 1 : 0;
+        bitValue += roomRight ? 2 : 0;
+        bitValue += roomBelow ? 4 : 0;
+        bitValue += roomLeft ? 8 : 0;
+        if (bitValue == 0) return;
+        var wallRoom = rooms[bitValue];
+        generatedOutlines.Add(Instantiate(wallRoom, roomPosition, transform.rotation));
     }
 }
 
-[System.Serializable]
-public class RoomPrefabs
-{
-    public GameObject singleUp, singleRight, singleLeft, singleDown,
-        doubleUpDown, doubleUpLeft, doubleUpRight, doubleLeftRight, doubleLeftDown, doubleRightDown,
-        tripleUpLeftRight, tripleUpLeftDown, tripleUpRightDown, tripleLeftRightDown,
-        fourWay;
-}
 
 
 
