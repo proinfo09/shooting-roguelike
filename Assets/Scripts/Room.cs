@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Room : MonoBehaviour
 {
+    public static Room instance;
     public bool closeWhenEntered/*, openWhenCleared*/;
 
     public GameObject[] doors;
@@ -15,6 +16,10 @@ public class Room : MonoBehaviour
 
     public GameObject mapHider;
 
+    private void Awake()
+    {
+        instance = this;
+    }
     // Start is called before the first frame update
     void Start()
     {
@@ -90,6 +95,7 @@ public class Room : MonoBehaviour
         if(other.tag == "Player")
         {
             roomActive = false;
+
         }
     }
 }

@@ -22,7 +22,7 @@ public class RoomCenter : MonoBehaviour
     void Update()
     {
         if (enemies.Count > 0 && theRoom.roomActive && openWhenCleared)
-        {
+        {            
             for (int i = 0; i < enemies.Count; i++)
             {
                 if (enemies[i] == null)

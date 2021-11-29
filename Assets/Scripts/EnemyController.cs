@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class EnemyController : MonoBehaviour
 {
+    public static EnemyController instance;
     public Rigidbody2D theRB;
     public float moveSpeed;
 
@@ -50,9 +51,17 @@ public class EnemyController : MonoBehaviour
 
     public int deathSound = 1;
 
+    public bool canMove = false;
+    float freezeCounter = 0.8f;
+    public bool playerIn = false;
+
     public List<GameObject> deathSplatters = new List<GameObject>();
     public GameObject hitEffect;
 
+    private void Awake()
+    {
+        instance = this;
+    }
     // Start is called before the first frame update
     void Start()
     {
@@ -65,7 +74,16 @@ public class EnemyController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (theBody.isVisible && PlayerController.instance.gameObject.activeInHierarchy)
+        if (freezeCounter > 0 && GetComponentInParent<RoomCenter>().theRoom.roomActive)
+        {
+            freezeCounter -= Time.deltaTime;
+            if (freezeCounter <= 0)
+            {
+                canMove = true;
+            }
+        }
+
+        if (theBody.isVisible && PlayerController.instance.gameObject.activeInHierarchy && canMove)
         {
             moveDirection = Vector3.zero;
 
@@ -183,6 +201,10 @@ public class EnemyController : MonoBehaviour
             int rotation = Random.Range(0, 4);
             Instantiate(deathSplatters[selectedSplatter], transform.position, Quaternion.Euler(0f, 0f, rotation * 90f));
         }
+    }
+    IEnumerator Delay(float time)
+    {
+        yield return new WaitForSeconds(time);
     }
     
 }
