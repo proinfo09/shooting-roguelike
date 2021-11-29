@@ -30,7 +30,7 @@ public class LevelManager : MonoBehaviour
         PlayerController.instance.transform.position = startPoint.position;
         PlayerController.instance.canMove = true;
         //currentCoins = CharacterTracker.instance.currentCoins;
-        //currentScore = CharacterTracker.instance.currentScore;
+        currentScore = CharacterTracker.instance.currentScore;
         currentCoins = (int)PlayerPrefs.GetFloat("CurrentCoin");
         Time.timeScale = 1f;
         UIController.instance.coinText.text = $"{currentCoins}";
@@ -56,10 +56,14 @@ public class LevelManager : MonoBehaviour
         CharacterTracker.instance.maxHealth = PlayerHealthController.instance.maxHealth;
         CharacterTracker.instance.currentScore = currentScore;
 
+        
         PlayerPrefs.SetFloat("CurrentHealth", CharacterTracker.instance.currentHealth);
         PlayerPrefs.SetFloat("MaxHealth", CharacterTracker.instance.maxHealth);
         PlayerPrefs.SetFloat("CurrentCoin", CharacterTracker.instance.currentCoins);
-        PlayerPrefs.SetFloat("CurrentScore", CharacterTracker.instance.currentScore);
+        if (nextLevel == "Victory")
+        {
+            PlayerPrefs.SetFloat("CurrentHealth", CharacterTracker.instance.maxHealth);
+        }
 
         SceneManager.LoadScene(nextLevel);
     }
