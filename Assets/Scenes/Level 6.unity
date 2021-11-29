@@ -402,7 +402,7 @@ PrefabInstance:
     - target: {fileID: 3370715639676067986, guid: 10dd803ebeb2733418565d838b78fbc3, type: 3}
       propertyPath: centerEnd
       value: 
-      objectReference: {fileID: 2910862918571538970, guid: 78b4ff8fe6e0a204c8d9bc6bcbea1fbf, type: 3}
+      objectReference: {fileID: 213548484079221165, guid: 58e2c2445a5281d4eb6ebb6259f46cda, type: 3}
     - target: {fileID: 3370715639676067986, guid: 10dd803ebeb2733418565d838b78fbc3, type: 3}
       propertyPath: centerShop
       value: 

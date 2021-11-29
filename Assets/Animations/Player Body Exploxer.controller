@@ -46,7 +46,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 024477fe418f1484ca726377f1d24c38, type: 2}
+  m_Motion: {fileID: 7400000, guid: be73e7ea4fd59644dae9621f05ce91f1, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -73,7 +73,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 108d6638249dddb499b654c14f627078, type: 2}
+  m_Motion: {fileID: 7400000, guid: 9c825105b35ead643a98693154f0c795, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -100,7 +100,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 2905b6a9491d9214ca5ef22627559b8c, type: 2}
+  m_Motion: {fileID: 7400000, guid: d8e7a2b280a07e44292e0e0b00cb96e9, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -141,7 +141,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Player Body
+  m_Name: Player Body Exploxer
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: isMoving

@@ -9,10 +9,29 @@ public class CharacterSelector : MonoBehaviour
     public GameObject message;
 
     public PlayerController playerToSpawn;
+
+    public bool shouldUnlock;
     // Start is called before the first frame update
     void Start()
     {
-        
+        if (shouldUnlock)
+        {
+            if (PlayerPrefs.HasKey(playerToSpawn.name))
+            {
+                if (PlayerPrefs.GetInt(playerToSpawn.name) == 1)
+                {
+                    gameObject.SetActive(true);
+                }
+                else
+                {
+                    gameObject.SetActive(false);
+                }
+            }
+            else
+            {
+                gameObject.SetActive(false);
+            }
+        }
     }
 
     // Update is called once per frame
