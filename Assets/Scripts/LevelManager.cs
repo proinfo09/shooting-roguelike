@@ -30,7 +30,7 @@ public class LevelManager : MonoBehaviour
         PlayerController.instance.transform.position = startPoint.position;
         PlayerController.instance.canMove = true;
         //currentCoins = CharacterTracker.instance.currentCoins;
-        currentScore = CharacterTracker.instance.currentScore;
+        //currentScore = CharacterTracker.instance.currentScore;
         currentCoins = (int)PlayerPrefs.GetFloat("CurrentCoin");
         Time.timeScale = 1f;
         UIController.instance.coinText.text = $"{currentCoins}";

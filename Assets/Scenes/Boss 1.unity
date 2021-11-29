@@ -9035,7 +9035,7 @@ MonoBehaviour:
       - {fileID: 1150209723}
       - {fileID: 1684585646}
       - {fileID: 375225586}
-    endSequenceHealth: 10000
+    endSequenceHealth: 5000
   - actions:
     - actionLenght: 5
       shouldMove: 1
@@ -9126,6 +9126,96 @@ MonoBehaviour:
       - {fileID: 1684585646}
       - {fileID: 375225586}
     endSequenceHealth: 5000
+  - actions:
+    - actionLenght: 5
+      shouldMove: 1
+      shouldChasePlayer: 0
+      moveSpeed: 4
+      moveToPoint: 1
+      pointToMoveTo: {fileID: 1702349766}
+      shouldShoot: 1
+      itemToShoot: {fileID: 1578935079470490477, guid: 1bc3ca84090d321429a8bb103779e081, type: 3}
+      timeBetweenShots: 2
+      shotPoints:
+      - {fileID: 244714946}
+      - {fileID: 1684300766}
+      - {fileID: 132989862}
+      - {fileID: 1645933628}
+      - {fileID: 1843090572}
+      - {fileID: 1215695467}
+      - {fileID: 892021150}
+      - {fileID: 1981787593}
+      - {fileID: 836109422}
+      - {fileID: 1150209723}
+      - {fileID: 1684585646}
+      - {fileID: 375225586}
+    - actionLenght: 5
+      shouldMove: 1
+      shouldChasePlayer: 0
+      moveSpeed: 4
+      moveToPoint: 1
+      pointToMoveTo: {fileID: 945836107}
+      shouldShoot: 1
+      itemToShoot: {fileID: 1578935079470490477, guid: 1bc3ca84090d321429a8bb103779e081, type: 3}
+      timeBetweenShots: 2
+      shotPoints:
+      - {fileID: 244714946}
+      - {fileID: 1684300766}
+      - {fileID: 132989862}
+      - {fileID: 1645933628}
+      - {fileID: 1843090572}
+      - {fileID: 1215695467}
+      - {fileID: 892021150}
+      - {fileID: 1981787593}
+      - {fileID: 836109422}
+      - {fileID: 1150209723}
+      - {fileID: 1684585646}
+      - {fileID: 375225586}
+    - actionLenght: 5
+      shouldMove: 1
+      shouldChasePlayer: 0
+      moveSpeed: 4
+      moveToPoint: 1
+      pointToMoveTo: {fileID: 925139748}
+      shouldShoot: 1
+      itemToShoot: {fileID: 1578935079470490477, guid: 1bc3ca84090d321429a8bb103779e081, type: 3}
+      timeBetweenShots: 2
+      shotPoints:
+      - {fileID: 244714946}
+      - {fileID: 1684300766}
+      - {fileID: 132989862}
+      - {fileID: 1645933628}
+      - {fileID: 1843090572}
+      - {fileID: 1215695467}
+      - {fileID: 892021150}
+      - {fileID: 1981787593}
+      - {fileID: 836109422}
+      - {fileID: 1150209723}
+      - {fileID: 1684585646}
+      - {fileID: 375225586}
+    - actionLenght: 5
+      shouldMove: 1
+      shouldChasePlayer: 0
+      moveSpeed: 4
+      moveToPoint: 1
+      pointToMoveTo: {fileID: 2089438429}
+      shouldShoot: 1
+      itemToShoot: {fileID: 1578935079470490477, guid: 1bc3ca84090d321429a8bb103779e081, type: 3}
+      timeBetweenShots: 2
+      shotPoints:
+      - {fileID: 244714946}
+      - {fileID: 1684300766}
+      - {fileID: 132989862}
+      - {fileID: 1645933628}
+      - {fileID: 1843090572}
+      - {fileID: 1215695467}
+      - {fileID: 892021150}
+      - {fileID: 1981787593}
+      - {fileID: 836109422}
+      - {fileID: 1150209723}
+      - {fileID: 1684585646}
+      - {fileID: 375225586}
+    endSequenceHealth: 2500
   currentSequence: 0
 --- !u!1 &1297678119
 GameObject:

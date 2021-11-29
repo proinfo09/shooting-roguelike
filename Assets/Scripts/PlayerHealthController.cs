@@ -24,7 +24,10 @@ public class PlayerHealthController : MonoBehaviour
     {
 
         //currentHealth = CharacterTracker.instance.currentHealth;
-        maxHealth = (int)PlayerPrefs.GetFloat("MaxHealth");
+        if (PlayerPrefs.GetFloat("MaxHealth") > 6)
+            maxHealth = (int)PlayerPrefs.GetFloat("MaxHealth");
+        else
+            maxHealth = 6;
         currentHealth = (int)PlayerPrefs.GetFloat("CurrentHealth", maxHealth);
         
         //currentHealth = maxHealth;
