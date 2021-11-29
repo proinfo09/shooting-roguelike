@@ -426,7 +426,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0115783d0fd30944830a05150e45408, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelToLoad: Level 1
+  levelToLoad: Character Select
+  deletePanel: {fileID: 2123728525}
+  charactersToDelete:
+  - {fileID: 3831217577131281706, guid: b90add5239abc284ab25b1596ae0e9ce, type: 3}
+  - {fileID: 6212426695008564540, guid: 702945e26578fcc48832b37748b3b578, type: 3}
+  - {fileID: 1428412994, guid: 1c4bb59371d4b024ea05ea5a423c5a89, type: 3}
 --- !u!1 &217204870
 GameObject:
   m_ObjectHideFlags: 0
@@ -512,7 +517,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 80430409}
         m_TargetAssemblyTypeName: MainMenu, Assembly-CSharp
-        m_MethodName: ExitGame
+        m_MethodName: CancelDelete
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -645,7 +650,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 80430409}
         m_TargetAssemblyTypeName: MainMenu, Assembly-CSharp
-        m_MethodName: ExitGame
+        m_MethodName: DeleteSave
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -878,7 +883,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Deleting will remove all save.
+  m_Text: 'Deleting will remove all character.
 
     Are You Sure?'
 --- !u!222 &757405078
@@ -1638,7 +1643,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 80430409}
         m_TargetAssemblyTypeName: MainMenu, Assembly-CSharp
-        m_MethodName: ExitGame
+        m_MethodName: ConfirmDelete
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1700,12 +1705,12 @@ GameObject:
   - component: {fileID: 2123728530}
   - component: {fileID: 2123728529}
   m_Layer: 5
-  m_Name: Confirm Panel
+  m_Name: Delete Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2123728526
 RectTransform:
   m_ObjectHideFlags: 0
