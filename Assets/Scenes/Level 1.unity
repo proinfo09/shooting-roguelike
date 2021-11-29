@@ -902,6 +902,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1619933760686233421, guid: 928d67dd2435aee45951e7a5e3d09399, type: 3}
+      propertyPath: maxHealth
+      value: 4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 928d67dd2435aee45951e7a5e3d09399, type: 3}
 --- !u!1001 &7604218099030613794
@@ -1006,10 +1010,6 @@ PrefabInstance:
     - target: {fileID: 7604218098558137721, guid: f1427959183639648a12d8a4ca47113a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7604218098558137726, guid: f1427959183639648a12d8a4ca47113a, type: 3}
-      propertyPath: newGameScreen
-      value: Level 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f1427959183639648a12d8a4ca47113a, type: 3}

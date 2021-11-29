@@ -78,6 +78,7 @@ public class UIController : MonoBehaviour
     {
         Time.timeScale = 1f;
         SceneManager.LoadScene(mainMenuScreen);
+        PlayerPrefs.DeleteKey("CurrentHealth");
         Destroy(PlayerController.instance.gameObject);
     }
 

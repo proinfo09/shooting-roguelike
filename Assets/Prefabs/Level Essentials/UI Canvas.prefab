@@ -2504,7 +2504,7 @@ MonoBehaviour:
   fadeScreen: {fileID: 7604218098009311930}
   fadeSpeed: 1
   coinText: {fileID: 1174968547}
-  newGameScreen: Level 1
+  newGameScreen: Character Select
   mainMenuScreen: Title Menu
   pauseMenu: {fileID: 1857548814}
   mapDisplay: {fileID: 847610739}

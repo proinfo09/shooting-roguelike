@@ -22,9 +22,11 @@ public class PlayerHealthController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        maxHealth = CharacterTracker.instance.maxHealth;
-        currentHealth = CharacterTracker.instance.currentHealth;
 
+        //currentHealth = CharacterTracker.instance.currentHealth;
+        maxHealth = (int)PlayerPrefs.GetFloat("MaxHealth");
+        currentHealth = (int)PlayerPrefs.GetFloat("CurrentHealth", maxHealth);
+        
         //currentHealth = maxHealth;
         UIController.instance.healthSlider.maxValue = maxHealth;
         UIController.instance.healthSlider.value = currentHealth;
@@ -60,6 +62,7 @@ public class PlayerHealthController : MonoBehaviour
                 UIController.instance.deathSceen.SetActive(true);
                 AudioManager.instance.PlaySFX(deathSFX);
                 AudioManager.instance.PlayGameOver();
+                PlayerPrefs.SetFloat("CurrentHealth", maxHealth);
             }
 
             UIController.instance.healthSlider.value = currentHealth;
@@ -92,5 +95,10 @@ public class PlayerHealthController : MonoBehaviour
         UIController.instance.healthSlider.maxValue = maxHealth;
         UIController.instance.healthSlider.value = currentHealth;
         UIController.instance.healthText.text = $"{currentHealth} / {maxHealth}";
+    }
+
+    private void OnApplicationQuit()
+    {
+        PlayerPrefs.DeleteKey("CurrentHealth");
     }
 }
