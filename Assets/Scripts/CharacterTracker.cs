@@ -6,7 +6,7 @@ public class CharacterTracker : MonoBehaviour
 {
     public static CharacterTracker instance;
 
-    public int currentHealth, maxHealth, currentCoins;
+    public int currentHealth, maxHealth, currentCoins, currentScore;
 
     private void Awake()
     {

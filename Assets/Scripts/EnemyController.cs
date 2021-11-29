@@ -162,6 +162,7 @@ public class EnemyController : MonoBehaviour
 
         if(health <= 0)
         {
+            LevelManager.instance.currentScore += 10;
             Destroy(gameObject);
             AudioManager.instance.PlaySFX(deathSound);
             //drop items

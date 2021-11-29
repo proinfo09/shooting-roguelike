@@ -17,6 +17,8 @@ public class LevelManager : MonoBehaviour
 
     public Transform startPoint;
 
+    public int currentScore;
+
     private void Awake()
     {
         instance = this;
@@ -28,6 +30,7 @@ public class LevelManager : MonoBehaviour
         PlayerController.instance.transform.position = startPoint.position;
         PlayerController.instance.canMove = true;
         currentCoins = CharacterTracker.instance.currentCoins;
+        currentScore = CharacterTracker.instance.currentScore;
         Time.timeScale = 1f;
         UIController.instance.coinText.text = $"{currentCoins}";
     }
@@ -50,6 +53,7 @@ public class LevelManager : MonoBehaviour
         CharacterTracker.instance.currentCoins = currentCoins;
         CharacterTracker.instance.currentHealth = PlayerHealthController.instance.currentHealth;
         CharacterTracker.instance.maxHealth = PlayerHealthController.instance.maxHealth;
+        CharacterTracker.instance.currentScore = currentScore;
         SceneManager.LoadScene(nextLevel);
     }
 
