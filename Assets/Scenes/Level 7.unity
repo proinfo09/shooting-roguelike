@@ -851,7 +851,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7604218098558137726, guid: f1427959183639648a12d8a4ca47113a, type: 3}
       propertyPath: newGameScreen
-      value: Level 1
+      value: Character Select
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f1427959183639648a12d8a4ca47113a, type: 3}

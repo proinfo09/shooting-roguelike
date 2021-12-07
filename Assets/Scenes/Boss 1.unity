@@ -9035,7 +9035,7 @@ MonoBehaviour:
       - {fileID: 1150209723}
       - {fileID: 1684585646}
       - {fileID: 375225586}
-    endSequenceHealth: 5000
+    endSequenceHealth: 7000
   - actions:
     - actionLenght: 5
       shouldMove: 1
