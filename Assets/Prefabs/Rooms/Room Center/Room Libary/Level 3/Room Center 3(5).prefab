@@ -1233,7 +1233,7 @@ Tilemap:
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
-      m_AllTileFlags: 1073741825
+      m_AllTileFlags: 1
   - first: {x: -7, y: 3, z: 0}
     second:
       serializedVersion: 2
@@ -1383,7 +1383,7 @@ Tilemap:
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
-      m_AllTileFlags: 1073741825
+      m_AllTileFlags: 1
   - first: {x: -1, y: 4, z: 0}
     second:
       serializedVersion: 2
@@ -1744,33 +1744,9 @@ CompositeCollider2D:
   m_EdgeRadius: 0
   m_ColliderPaths:
   - m_Collider: {fileID: 2943149957857421700}
-    m_ColliderPaths:
-    - - X: -70000000
-        Y: 40000000
-      - X: -80000000
-        Y: 40000000
-      - X: -80000000
-        Y: 30000000
-      - X: -70000000
-        Y: 30000000
-    - - X: 80000000
-        Y: 40000000
-      - X: 70000000
-        Y: 40000000
-      - X: 70000000
-        Y: 30000000
-      - X: 80000000
-        Y: 30000000
+    m_ColliderPaths: []
   m_CompositePaths:
-    m_Paths:
-    - - {x: 7.9999704, y: 3}
-      - {x: 7.9999704, y: 4}
-      - {x: 7, y: 3.999971}
-      - {x: 7.0000296, y: 3}
-    - - {x: -7.0000296, y: 3}
-      - {x: -7.0000296, y: 4}
-      - {x: -8, y: 3.999971}
-      - {x: -7.9999704, y: 3}
+    m_Paths: []
   m_VertexDistance: 0.0005
   m_OffsetDistance: 0.00005
 --- !u!1 &2943149957897528865
@@ -1996,7 +1972,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8e0a7242aa151940853f6109f25cb0c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  openWhenCleared: 1
+  openWhenCleared: 0
   enemies: []
   theRoom: {fileID: 0}
 --- !u!1001 &2943149957745979397
